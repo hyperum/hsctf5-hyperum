@@ -9,7 +9,7 @@ An Old Puzzle | 200 | Find solution to game
 Opinions | 200 | Reverse engineer Java
 Angles and Iteration | 300 | Find rectangles given constraints
 Kinda Dumb | 400 | Hijack string-verifying program
-Lambdas in Prime Condition | 400 | Reverse engineer Python, except with infinite recursion representing concepts in Lambda Calculus
+[Lambdas in Prime Condition](/lambdas_in_prime_condition.md) | 400 | Reverse engineer Python, except with infinite recursion representing concepts in Lambda Calculus.
 Prime Suspect | 400 | Reverse engineer Java
 
 ###### Unfinished
