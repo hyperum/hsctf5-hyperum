@@ -2,13 +2,15 @@
 
 HSCTF 5 took place in May of 2018, with 458 teams from schools worldwide participating. Enclosed are a selection of writeups by team hyperum.
 
+Compete at [hsctf.com](hsctf.com).
+
 ## Team
 
 ###### Ranking
 
-Team Name | Score | Rank | Affiliation
---- | --- | ---
-`hyperum` | 6475 | 13 | Singapore American School
+Rank | Team | Affiliation | Score
+--- | --- | --- | ---
+6475 | Hyperum | Singapore American School | 6475
 
 ![Ranking](/res/hsctf-final-rankings.png)
 
@@ -21,8 +23,13 @@ Aaron Yeoh (hyperum) Cruz
 ###### Categories
 
 [algo](/algo)
+
 [binary](/binary)
+
 [crypto](/crypto)
+
 [reversal](/reversal)
+
 [web](/web)
+
 [other](/other)
