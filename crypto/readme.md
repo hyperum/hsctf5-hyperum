@@ -4,7 +4,7 @@
 Challenge | Points | Short
 --- | --- | ---
 Spoilers | 100 | Use Caesar cipher to decode string - trivial
-Master Keys | 200 | Find primes in RSA given public and private keys with brute force
+[Master Keys](/crypto/master_keys.md) | 200 | Find primes in RSA given public and private keys with brute force
 Very Small Primes | 200 | Find primes in RSA with one small prime
 Stolen Sheets | 250 | Use substitution cipher - trivial
 CuSmith | 250 | Decipher RSA given small public exponent
