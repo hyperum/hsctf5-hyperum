@@ -5,7 +5,7 @@ Challenge | Points | Short
 --- | --- | ---
 Review | 100 | Arbitrary stack overflow with gets() - trivial
 Jumper | 150 | Stack overflow with return address exploit - trivial
-[Caesar](/caesar.md) | 300 | Format string exploit through dynamic linkage
+[Caesar](/binary/caesar.md) | 300 | Format string exploit through dynamic linkage
 
 ###### Unfinished
 Challenge | Points | Short

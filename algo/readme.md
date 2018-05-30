@@ -5,7 +5,7 @@ Challenge | Points | Short
 --- | --- | ---
 Chopsticks | 100 | Iterate through string - trivial
 Teacher Struggles | 100 | Iterate through string - trivial
-[End](/end.md) | 200 | Iterate through matrix 
+[End](/algo/end.md) | 200 | Iterate through matrix 
 Masochist Keith | 200 | Find diameter of convex hull
 OK | 250 | Identify the Jacobsthal integer sequence popping up out of nowhere.
 
