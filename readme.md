@@ -10,7 +10,7 @@ Compete at [hsctf.com](hsctf.com).
 
 Rank | Team | Affiliation | Score
 --- | --- | --- | ---
-6475 | Hyperum | Singapore American School | 6475
+13 | Hyperum | Singapore American School | 6475
 
 ![Ranking](/res/hsctf-final-rankings.png)
 
