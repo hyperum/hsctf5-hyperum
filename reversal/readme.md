@@ -8,10 +8,9 @@ The Safe | 100 | Reverse engineer Java
 An Old Puzzle | 200 | Find solution to game
 Opinions | 200 | Reverse engineer Java
 Angles and Iteration | 300 | Find rectangles given constraints
-Kinda Dumb | 400 | Hijack string-verifying program
+[Kinda Dumb](/reversal/kinda_dumb.md) | 400 | Hijack string-verifying program
 [Lambdas in Prime Condition](/reversal/lambdas_in_prime_condition.md) | 400 | Reverse engineer Python, except with infinite recursion representing concepts in Lambda Calculus.
 Prime Suspect | 400 | Reverse engineer Java
-
 ###### Unfinished
 Challenge | Points | Short
 --- | --- | ---
